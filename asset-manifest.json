@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/homework-03-25-build/static/css/main.59eba9a5.css",
-    "main.js": "/homework-03-25-build/static/js/main.84e49476.js",
+    "main.js": "/homework-03-25-build/static/js/main.fa4c5337.js",
     "static/js/453.f9eea621.chunk.js": "/homework-03-25-build/static/js/453.f9eea621.chunk.js",
     "static/media/FallingWater@3x.png": "/homework-03-25-build/static/media/FallingWater@3x.73c10d1100f0b05ebbb0.png",
     "static/media/Opera House.png": "/homework-03-25-build/static/media/Opera House.c8eea1f9f268e6502e25.png",
@@ -26,11 +26,11 @@
     "static/media/ellipse2@2x.png": "/homework-03-25-build/static/media/ellipse2@2x.ac33da92ff90cab40b7b.png",
     "index.html": "/homework-03-25-build/index.html",
     "main.59eba9a5.css.map": "/homework-03-25-build/static/css/main.59eba9a5.css.map",
-    "main.84e49476.js.map": "/homework-03-25-build/static/js/main.84e49476.js.map",
+    "main.fa4c5337.js.map": "/homework-03-25-build/static/js/main.fa4c5337.js.map",
     "453.f9eea621.chunk.js.map": "/homework-03-25-build/static/js/453.f9eea621.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59eba9a5.css",
-    "static/js/main.84e49476.js"
+    "static/js/main.fa4c5337.js"
   ]
 }
